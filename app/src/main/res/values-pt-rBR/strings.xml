@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FITCO</string>
+
+
+    <string name="hello">Olá</string>
+    <string name="ok">Ok</string>
+    <string name="empty_feed">Nenhum resultado encontrado.</string>
+    <string name="password">Senha</string>
+    <string name="about_us">SOBRE NÓS</string>
+    <string name="products">Produtos</string>
+    <string name="news">News</string>
+    <string name="see_more">Veja Mais</string>
+    <string name="weekly_prices">Preços semanais</string>
+    <string name="more_detail">Mais Detalhes</string>
+    <string name="price_now">Preço atual</string>
+    <string name="price_before">Preço anterior</string>
+    <string name="euro">Euro</string>
+    <string name="dollar">Dólar</string>
+    <string name="buy">Compra</string>
+    <string name="product">Produto</string>
+    <string name="about">Sobre</string>
+    <string name="weekly_reports">Reportes Semanais</string>
+    <string name="contact">Contatos</string>
+    <string name="see_more_underline"><u>Veja Mais </u></string>
+    <string name="alert">Alerta!</string>
+    <string name="loading">Carregando...</string>
+    <string name="whatsapp_not_installed">Não foi possível abrir o whatsApp.</string>
+    <string name="no_connection">Sem conexão com internet.</string>
+    <string name="validation">Validação!</string>
+    <string name="invalid_email">Email inválido</string>
+    <string name="coming_soon">Em breve.</string>
+    <string name="confirmation">Confirmação</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="video_wait">Aguarde...</string>
+    <string name="average_price">Preço médio</string>
+    <string name="date">Data</string>
+    <string name="launcher_name">\@string/app_name</string>
+    <string name="activity_name">\@string/launcher_name</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="main_activities">PRINCIPAIS ATIVIDADES</string>
+    <string name="tradecom_fitco">A FITCO Tradecom do Brasil</string>
+    <string name="international_fitco">A FITCO International S.A.</string>
+    <string name="tradecom_desc_fitco">"Parceiro comercial estratégico dos principais produtores de matérias primas tem sua sede em Alphaville, na cidade de Barueri/SP - Brasil. A FITCO do Brasil é hoje uma das empresas lideres no segmento de suprimento a indústria de fertilizantes Brasileira "</string>
+    <string name="international_desc_fitco">Empresa fornecedora internacional de matéria primas para uso como fertilizantes. Sendo uma empresa que atua na área de trading e distribuição, a FITCO International conta com larga experiência na área de agronegócios com forte atuação neste segmento no mercado brasileiro e países da América do Sul , tendo como objetivo a excelência na prestação de serviços junto a seus clientes, trazendo agilidade em logística e novas opções de fornecimento, bem como, inovação nos processo de negociações</string>
+    <string name="fitco">FITCO\n Tradecom do Brasil</string>
+    <string name="fax_fitco">Fax: (+55) 11 4208-2739</string>
+    <string name="email_fitco">contact@fitco.com.br</string>
+    <string name="fone_fitco">(+55) 11 4208-5353</string>
+    <string name="address_fitco">Alameda Rio Negro, 585 Cj.131\n Torre Jaçari - Bloco A\n Alphaville - Barueri/SP - Brazil\n Cep: 06454-000</string>
+    <string name="info_fitco">Parceiro comercial\n estratégico dos\n principais produtores\n de matérias primas\n fertilizantes</string>
+    <string name="main_fitco">FITCO International, é uma empresa que tem como missão dar suporte ao agronegócio nos mercados do Brasil e demais países da América do Sul através da prestação de serviço de trading internacional, tendo excelência na execução de serviços nas áreas de logística internacional e comercialização, buscando seus produtos diretamente com os principais produtores mundiais de matérias primas fertilizantes.\nA FITCO tem como objetivo otimizar a distribuição de fertilizantes aliando a sua força comercial local e as fontes produtoras, até a entrega aos seus consumidores finais sendo estas as empresas misturadoras de matéria prima, tendo um ampla área de atuação nos mais diversos países exportadores como: Rússia, Ucrânia, Coréia do Sul, Golfo Árabe, Tunísia, Estados Unidos, países membros da União Europeia e importadores como os integrantes da América do Sul, entre eles, destacamos: Brasil, Argentina, Uruguai, Chile, Colômbia e Peru, bem como, atuando fortemente na área de logística internacional e contratação de fretes marítimos, realizando portanto, vendas na modalidade INCOTERM aos nossos clientes e parceiros comerciais.\nA FITCO International está apta a oferecer um pacote de serviços de trading e logística, igualmente está apta a implementar estratégias de mercado e ações comerciais em conjunto com os produtores e seus parceiros de longo termo.\nNossas empresas associadas possuem forte capacidade logística, propiciando desta maneira, a possibilidade de oferecer produtos importados já internados em seus próprios armazéns nos países em que atua.\nNosso sucesso na comercialização dos produtos fertilizantes é baseado em nossos valores, dedicação, responsabilidade, devido cumprimento de nossas obrigações contratuais de fornecimento e trading, além do conhecimento detalhado dos mercados em que atuamos o que consequentemente gera fortes alianças construídas com a participação de diferentes produtores e uma ampla carteira de clientes.\nNossos valores são: \nRespeito \nIntegridade \nResponsabilidade \nCooperação \nRespeito à necessidade de nossos clientes com integridade e responsabilidade nas negociações \nNossa Visão:\nSer uma empresa de Trade Internacional reconhecida e respeitada por nossos clientes, fornecedores, parceiros comerciais e colaboradores, como sendo uma empresa próspera e criativa, comercializando e desenvolvendo produtos de alta qualidade para uma correta nutrição agrícola e técnica para uso industrial, continuando a se expandir em sua área de atuação nos mercados que já atende no Brasil e Exterior, com desenvolvimento sustentável e rentável para sócios e parceiros comerciais, clientes e fornecedores .\nYour fertilizer supplier and partner</string>
+
+
+</resources>

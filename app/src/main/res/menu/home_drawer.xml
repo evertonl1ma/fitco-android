@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_price"
+            android:checkable="false"
+            android:icon="@drawable/weekly_price_icon"
+            android:title="@string/weekly_prices" />
+
+
+
+        <item
+            android:id="@+id/nav_report"
+            android:checkable="false"
+            android:icon="@drawable/weekly_report_icon"
+            android:title="@string/weekly_reports" />
+
+        <item
+            android:id="@+id/nav_product"
+            android:checkable="false"
+            android:icon="@drawable/sappling_green"
+            android:title="@string/product" />
+
+        <item
+            android:id="@+id/nav_about"
+            android:checkable="false"
+            android:icon="@drawable/about_icon"
+            android:title="@string/about" />
+
+
+
+        <!--<item-->
+        <!--android:id="@+id/nav_favorite"-->
+        <!--android:checkable="false"-->
+        <!--android:icon="@drawable/favorite"-->
+        <!--android:title="@string/saved_publications" />-->
+
+
+        <!--<item-->
+        <!--android:id="@+id/nav_preferences"-->
+        <!--android:checkable="false"-->
+        <!--android:icon="@drawable/like"-->
+        <!--android:title="@string/preferences" />-->
+
+        <!--<item-->
+        <!--android:id="@+id/nav_about"-->
+        <!--android:checkable="false"-->
+        <!--android:icon="@drawable/info"-->
+        <!--android:title="@string/about" />-->
+
+        <!--<item-->
+        <!--android:id="@+id/nav_terms"-->
+        <!--android:checkable="false"-->
+        <!--android:icon="@drawable/protection"-->
+        <!--android:title="@string/terms" />-->
+
+    </group>
+</menu>
